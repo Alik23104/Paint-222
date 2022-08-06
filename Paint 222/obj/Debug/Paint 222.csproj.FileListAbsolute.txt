@@ -1,0 +1,10 @@
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint 222.csprojAssemblyReference.cache
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint_222.Form1.resources
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint_222.Properties.Resources.resources
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint 222.csproj.GenerateResource.cache
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint 222.csproj.CoreCompileInputs.cache
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\bin\Debug\Paint 222.exe.config
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\bin\Debug\Paint 222.exe
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\bin\Debug\Paint 222.pdb
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint 222.exe
+C:\Users\Takumi\source\repos\Paint 222\Paint 222\obj\Debug\Paint 222.pdb
